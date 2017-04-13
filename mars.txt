@@ -1,3 +1,4 @@
 
 Mars is smaller than the Earth and it's red. I don't if there is life on Mars, maybe there is, maybe there isn't.
+This is an attempt at using Rstudio interface with git and github. 
 
